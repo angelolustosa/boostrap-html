@@ -3,3 +3,8 @@
     height: 500px; /* Define uma altura fixa para as imagens */
     object-fit: cover; /* Faz com que a imagem se ajuste e cubra o espaço sem distorcer */
 }
+
+/* .col-12.col-md img { */
+.logo-footer {
+    width: 25%;
+}
